@@ -15,4 +15,5 @@ Hypothesis 2: Different purposes ( commercial, industrial, residential) of fuel 
 Data Sources:
 
 https://think.cs.vt.edu/corgis/csv/energy/
+
 https://www.ncei.noaa.gov/access/search/data-search/global-summary-of-the-year?pageSize=100
