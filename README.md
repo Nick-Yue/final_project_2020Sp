@@ -2,6 +2,7 @@
 Title: Analysis of the relationship between consumption of various fuel resources and climate change in the US.
 
 When uploaded on the Github, the Jupyter notebook lost its feature of interactivity and some of my dynamic plots may not be shown unless being downloaded to local computers. Hence, I created a mybinder page to solve this problem, please check here:
+### Notice: some errors may occur while browsing the mybinder page, please follow the instructions under the cells that these errors may occur. 
 
 https://mybinder.org/v2/gh/Nick-Yue/final_project_2020Sp/master
 
